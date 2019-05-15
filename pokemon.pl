@@ -1,9 +1,3 @@
-% ahmet emir kocaaga
-% 2017400276
-% yes
-% yes
-
-
 :-[pokemon_data].
 
 
