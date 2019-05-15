@@ -1,3 +1,3 @@
-# prolog-pokemon-game
+# Prolog Pokemon Game Project
 
-Check Project Description!
+Check out the Project Description!
